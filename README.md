@@ -6,6 +6,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/monaahmeed/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/monaahmeed/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
