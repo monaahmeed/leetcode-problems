@@ -1,6 +1,6 @@
 class Solution {
   bool increasingTriplet(List<int> nums) {
-    int first=double.maxFinite.toInt();
+    int first=nums[0];
     int second=double.maxFinite.toInt();
     for( int num in nums){
         if(num<=first)
