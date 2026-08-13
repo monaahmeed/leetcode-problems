@@ -1,23 +1,21 @@
 class Solution {
 public:
     int maxOperations(std::vector<int>& nums, int k) {
-        std::sort(nums.begin(), nums.end());
-        
-        int i = 0;
-        int j = nums.size() - 1;
+       
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(NULL);
+
+        std::unordered_map<int, int> freq;
         int count = 0;
 
-        while (i < j) {
-            int sum = nums[i] + nums[j];
-            
-            if (sum == k) {
+        for (int num : nums) {
+            int complement = k - num;
+
+           if (freq[complement] > 0) {
                 count++;
-                i++;
-                j--;
-            } else if (sum < k) {
-                i++;
+                freq[complement]--;
             } else {
-                j--;
+                freq[num]++;
             }
         }
 
