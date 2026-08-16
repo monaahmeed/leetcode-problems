@@ -1,28 +1,23 @@
 class Solution {
 public:
-    int longestOnes(std::vector<int>& nums, int k) {
-        std::ios_base::sync_with_stdio(false);
-        std::cin.tie(NULL);
-
-        int left = 0;
-        int zeroCount = 0;
+    int longestOnes(vector<int>& nums, int k) {
         int maxLength = 0;
-
+        int zeros = 0;
+        int left = 0;
         for (int right = 0; right < nums.size(); right++) {
             if (nums[right] == 0) {
-                zeroCount++;
+                zeros++;
             }
-
-            while (zeroCount > k) {
+            while (zeros > k) {
                 if (nums[left] == 0) {
-                    zeroCount--;
+                    zeros--;
                 }
                 left++;
             }
+            
 
-            maxLength = std::max(maxLength, right - left + 1);
+         maxLength= max(maxLength, right - left + 1);
         }
-
-        return maxLength;
+     return maxLength;
     }
 };
