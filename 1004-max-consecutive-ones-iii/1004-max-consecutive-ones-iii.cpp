@@ -1,8 +1,6 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        std::ios_base::sync_with_stdio(false);
-        std::cin.tie(NULL);
         int a = 0;
         int zeros = 0;
         int left = 0;
