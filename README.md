@@ -14,6 +14,7 @@ LeetCode Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/monaahmeed/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/monaahmeed/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monaahmeed/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/monaahmeed/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@ LeetCode Solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/monaahmeed/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/monaahmeed/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/monaahmeed/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
