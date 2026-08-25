@@ -1,27 +1,26 @@
 class Solution {
   int equalPairs(List<List<int>> grid) {
+    Map<String, int> rows = {};
     int n = grid.length;
-    int count = 0;
 
-    for (int r = 0; r < n; r++) {
-    
-      for (int c = 0; c < n; c++) {
-        
-        bool isEqual = true;
-       
-        for (int i = 0; i < n; i++) {
-          if (grid[r][i] != grid[i][c]) {
-            isEqual = false;
-            break;
-          }
-        }
-
-        if (isEqual) {
-          count++;
-        }
-      }
+    for (var row in grid) {
+      String key = row.join(',');
+      rows[key] = (rows[key] ?? 0) + 1;
     }
 
-    return count;
+    int ans = 0;
+
+    for (int col = 0; col < n; col++) {
+      List<int> column = [];
+
+      for (int row = 0; row < n; row++) {
+        column.add(grid[row][col]);
+      }
+
+      String key = column.join(',');
+      ans += rows[key] ?? 0;
+    }
+
+    return ans;
   }
 }
