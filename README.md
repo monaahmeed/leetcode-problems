@@ -19,6 +19,7 @@ LeetCode Solutions
 | [1679-max-number-of-k-sum-pairs](https://github.com/monaahmeed/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/monaahmeed/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/monaahmeed/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/monaahmeed/leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ LeetCode Solutions
 | [1657-determine-if-two-strings-are-close](https://github.com/monaahmeed/leetcode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monaahmeed/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/monaahmeed/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/monaahmeed/leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +104,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/monaahmeed/leetcode-problems/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/monaahmeed/leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/monaahmeed/leetcode-problems/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
