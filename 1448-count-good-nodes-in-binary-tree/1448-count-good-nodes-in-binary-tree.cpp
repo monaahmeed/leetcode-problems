@@ -19,10 +19,7 @@ private:
         if(!root){
             return 0;
         }
-        int count =0;
-        if(root->val >=maxx){
-            count++;
-        }
+        int count = (root->val >= maxx);
         maxx=max(root->val,maxx);
         count+=maxCount(root->left,maxx);
         count+=maxCount(root->right,maxx);
