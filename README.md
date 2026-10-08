@@ -157,23 +157,27 @@ LeetCode Solutions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/monaahmeed/leetcode-problems/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/monaahmeed/leetcode-problems/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/monaahmeed/leetcode-problems/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monaahmeed/leetcode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
